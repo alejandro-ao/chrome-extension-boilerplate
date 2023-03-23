@@ -1,7 +1,7 @@
 # Chrome Extension Boilerplate with Manifest 3
 This is a basic boilerplate for creating a Chrome Extension with Manifest 3. It includes the necessary files and folder structure to get started quickly.
 
-##Folder Structure
+## Folder Structure
 The folder structure is as follows:
 
 ```
